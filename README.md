@@ -9,7 +9,7 @@ qomiqOS is a special operating system designed with internet memes culture at it
 - **Breast Based Theme**: Memes everywhere! Wallpapers, icons, notification sounds and more are inspired by memes.
 - **Special Apps**: Meme generator, meme browser and more.
 - **Customizable**: Add your own meme themes and content.
-- Lightweight and Fast**: Minimal design optimized for everyday use.
+- **Lightweight and Fast**: Minimal design optimized for everyday use.
 
 ## Installation
 
