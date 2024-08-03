@@ -1,0 +1,24 @@
+# Genel gitignore ayarları
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# İşletim sistemi tarafından oluşturulan dosyalar
+*.log
+*.tmp
+
+# Derleme çıktıları
+*.o
+*.a
+*.so
+*.out
+*.bin
+*.elf
+
+# Çekirdek kaynak kodları ve derleme çıktıları
+linux/
+linux-*
+
+# Kendi özel dizin yapınıza göre çekirdek dışlama
+kernel/
